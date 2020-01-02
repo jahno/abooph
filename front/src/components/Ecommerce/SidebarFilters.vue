@@ -1,7 +1,7 @@
 <template>
    <div class="sidebar-filter-wrap">
       <div class="search-box emb-card white mb-6 pa-6">
-         <ais-search-box placeholder="Search a product"></ais-search-box>
+         <ais-search-box placeholder="Rechercher un produit"></ais-search-box>
       </div>
       <div class="cateogary-block emb-card white mb-6 pa-6">
          <h5>CATEGORIES</h5>
